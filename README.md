@@ -110,15 +110,15 @@ He married Mrs. EVP. Rajeshwari in the year 1978 and they were blessed with thre
 
 ### Rect Marked place in Map:
 
-![Marked_Place](./images/place.jpg)
+![Marked_Place](images/place.jpg)
 
 ### Place-around-me (EVP):
 
-![EVP](./image/EVPmarked.png)
+![EVP](images/EVPmarked.png)
 
 ### Place-around-me (Queensland marked):
 
-![Queensland](./image/Queenslandmarked.png)
+![Queensland](images/Queenslandmarked.png)
 
 
 ## Result:
